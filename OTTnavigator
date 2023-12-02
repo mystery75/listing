@@ -172,11 +172,6 @@ https://d1fk7kbmz4il3.cloudfront.net/CH4/masterCH4.mpd
 https://d1yws6emo43ny.cloudfront.net/CH4/masterCH4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OvWAx7IYQAMBefTcrSJ8ig", "kid":"XMXAH2YVlZUkX+iuZ5ELEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="304.astro" tvg-logo="https://aqfadtv.astradamy.com/logos/XiaoTaiYang.png" group-title="",Xiao Tai Yang
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d9mO1x23Ukwnh1oJqXX55g", "kid":"fvfpE86FoRMbJwNgaRaaEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="300.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png" group-logo="" group-title="",iQIYI  
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
