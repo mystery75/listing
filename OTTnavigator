@@ -21,7 +21,7 @@ https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"EHfv7MCyTQKs4zweUuL7Sw", "kid":"R6Ega0SCLIkyDnCRbPV7DA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"R6Ega0SCLIkyDnCRbPV7DA", "kid":"EHfv7MCyTQKs4zweUuL7Sw" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="147.astro" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png" group-logo="" group-title="",DidikTV  
 https://unifi-live06.secureswiftcontent.com/UnifiHD/live06.mpd
 
