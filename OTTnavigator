@@ -246,7 +246,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01944-ktalpha-kpopcorn-dash-sooka/c2c30cb4-75e7-4b16-8661-f2bea66b6261/index.mpd
 
 #EXTINF:-1 tvg-id="506" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Andflix.png/revision/latest/scale-to-width-down/78?cb=20230610201845" group-title="",&flix
-http://103.132.181.118:82/play/a00x
+http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=155990&extension=m3u8&play_token=xdbt7BgLik
+#####http://103.132.181.118:82/play/a00x
 
 #EXTINF:-1 tvg-id="530" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/%26priv%C3%A9_HD.svg/revision/latest/scale-to-width-down/78?cb=20200430075830" group-title="",&prive 
 http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=155746&extension=m3u8&play_token=xdbt7BgLik
@@ -377,10 +378,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF:-1 tvg-id="560" tvg-logo="https://i.imgur.com/8kWnyqn.png" group-title="",Star Movies
-http://103.132.181.118:82/play/a005
+http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=155729&extension=m3u8&play_token=xdbt7BgLik
+#####http://103.132.181.118:82/play/a005
 
 #EXTINF:-1 tvg-id="593" tvg-logo="https://i.imgur.com/Dpu3pd2.png" group-title="",Star Movies Select  
-http://103.131.214.89:8000/play/a00j
+http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=155729&extension=m3u8&play_token=xdbt7BgLik
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
