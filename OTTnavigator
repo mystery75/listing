@@ -246,11 +246,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01944-ktalpha-kpopcorn-dash-sooka/c2c30cb4-75e7-4b16-8661-f2bea66b6261/index.mpd
 
 #EXTINF:-1 tvg-id="506" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Andflix.png/revision/latest/scale-to-width-down/78?cb=20230610201845" group-title="",&flix
-http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=155990&extension=m3u8&play_token=xdbt7BgLik
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1116484&extension=ts&play_token=1PvUcweHaG
 #####http://103.132.181.118:82/play/a00x
 
 #EXTINF:-1 tvg-id="530" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/%26priv%C3%A9_HD.svg/revision/latest/scale-to-width-down/78?cb=20200430075830" group-title="",&prive 
-http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=155746&extension=m3u8&play_token=xdbt7BgLik
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=155746&extension=ts&play_token=1PvUcweHaG
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wyGv4WibB9W35VvQJcSDzg", "kid":"wkp4EdmrRrSLdGoOfiaSEA" } ], "type":"temporary" }
@@ -333,6 +333,9 @@ http://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/I
 #EXTINF:-1 tvg-id="210" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/mn%2B-hd.gif" group-logo="" group-title="",MN+  
 http://103.132.181.118:82/play/a00t
 
+EXTINF:-1 tvg-id="173" tvg-id="MoviesNow.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png/revision/latest/scale-to-width-down/100?cb=20110930233017" group-title="",Movies Now
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1116477&extension=ts&play_token=1PvUcweHaG
+
 #EXTINF:-1 tvg-id="USBA43000017Q" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2313e05-03e3-44df-802c-415368e9356a/MovieSphere_Plex_LogoDisplay_OnDark.png" group-title="",Moviesphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
@@ -378,11 +381,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF:-1 tvg-id="560" tvg-logo="https://i.imgur.com/8kWnyqn.png" group-title="",Star Movies
-http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=155727&extension=m3u8&play_token=xdbt7BgLik
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1116488&extension=ts&play_token=1PvUcweHaG
 #####http://103.132.181.118:82/play/a005
 
 #EXTINF:-1 tvg-id="593" tvg-logo="https://i.imgur.com/Dpu3pd2.png" group-title="",Star Movies Select  
-http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=155729&extension=m3u8&play_token=xdbt7BgLik
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1116489&extension=ts&play_token=1PvUcweHaG
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
