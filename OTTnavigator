@@ -333,7 +333,7 @@ http://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/I
 #EXTINF:-1 tvg-id="210" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/mn%2B-hd.gif" group-logo="" group-title="",MN+  
 http://103.132.181.118:82/play/a00t
 
-EXTINF:-1 tvg-id="173" tvg-id="MoviesNow.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png/revision/latest/scale-to-width-down/100?cb=20110930233017" group-title="",Movies Now
+#EXTINF:-1 tvg-id="173" tvg-id="MoviesNow.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png/revision/latest/scale-to-width-down/100?cb=20110930233017" group-title="",Movies Now
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1116477&extension=ts&play_token=1PvUcweHaG
 
 #EXTINF:-1 tvg-id="USBA43000017Q" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2313e05-03e3-44df-802c-415368e9356a/MovieSphere_Plex_LogoDisplay_OnDark.png" group-title="",Moviesphere
