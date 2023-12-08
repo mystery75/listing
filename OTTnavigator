@@ -254,7 +254,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01944-ktalpha-kpopcorn-dash-sooka
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1116484&extension=ts&play_token=8elHzUlVi6
 #####http://103.132.181.118:82/play/a00x
 
-#EXTINF:-1 tvg-id="530" tvg-logo="https://raw.githubusercontent.com/mystery75/Logo/main/&priv%C3%A9.png" group-title="",&prive 
+#EXTINF:-1 tvg-id="530" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&priv%C3%A9.png" group-title="",&prive 
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=155746&extension=ts&play_token=8elHzUlVi6
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
