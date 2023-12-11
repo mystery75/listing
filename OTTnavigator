@@ -347,7 +347,7 @@ http://103.132.181.118:82/play/a00t
 #EXTINF:-1 tvg-id="173" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MoviesNow.png" group-title="",Movies Now
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1116477&extension=ts&play_token=8elHzUlVi6
 
-#EXTINF:-1 tvg-id="USBA43000017Q" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2313e05-03e3-44df-802c-415368e9356a/MovieSphere_Plex_LogoDisplay_OnDark.png" group-title="",Moviesphere
+#EXTINF:-1 tvg-id="USBA43000017Q" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MovieSphere.png" group-title="",Moviesphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
