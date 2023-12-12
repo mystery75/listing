@@ -348,7 +348,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 #EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Imc.png" group-title="",IMC
 http://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
-#EXTINF:-1 tvg-id="210" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MN+.png" group-logo="" group-title="",MN+  
+#EXTINF:-1 tvg-id="210" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MN%2B.png" group-logo="" group-title="",MN+  
 http://103.132.181.118:82/play/a00t
 
 #EXTINF:-1 tvg-id="173" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MoviesNow.png" group-title="",Movies Now
