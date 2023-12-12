@@ -341,13 +341,13 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 #EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Imc.png" group-title="",IMC
 http://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
-#EXTINF:-1 tvg-id="210" tvg-logo="" group-logo="" group-title="",MN+  
+#EXTINF:-1 tvg-id="210" tvg-logo="" group-logo="https://raw.githubusercontent.com/mystery75/logo/main/MN+.png" group-title="",MN+  
 http://103.132.181.118:82/play/a00t
 
 #EXTINF:-1 tvg-id="173" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MoviesNow.png" group-title="",Movies Now
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1116477&extension=ts&play_token=8elHzUlVi6
 
-#EXTINF:-1 tvg-id="USBA43000017Q" tvg-logo="" group-title="",Moviesphere
+#EXTINF:-1 tvg-id="USBA43000017Q" tvg-logo="" group-title="https://raw.githubusercontent.com/mystery75/logo/main/MovieSphere.png",Moviesphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
