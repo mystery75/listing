@@ -256,7 +256,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01944-ktalpha-kpopcorn-dash-sooka/c2c30cb4-75e7-4b16-8661-f2bea66b6261/index.mpd
 
 #EXTINF:-1 tvg-id="506" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="",&flix
-http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=155746&extension=ts&play_token=8elHzUlVi6
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=155990&extension=ts&play_token=8elHzUlVi6
 #####http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1116484&extension=ts&play_token=8elHzUlVi6
 #####http://103.132.181.118:82/play/a00x
 
