@@ -267,8 +267,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01944-ktalpha-kpopcorn-dash-sooka
 https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USAJ30000122O" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/NKMS.png" group-title="",New KMovies Samsung
-https://raw.githubusercontent.com/mystery75/streaming/main/nkms.m3u8
-#####https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
+https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
 
 #EXTINF:-1 tvg-id="506" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-title="",&flix
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=282632&extension=ts
