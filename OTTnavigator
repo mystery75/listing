@@ -168,7 +168,6 @@ https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Eh8nDF6mtpC+3X5KV/Lwxg", "kid":"KxobcCbOSzeKvUsmaql4Dw" } ], "type":"temporary" }
-#####KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Eh8nDF6mtpC+3X5KV/Lwxg", "kid":"KxobcCbOSzeKvUsmaql4Dw" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="306.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_AEC_v1.png" group-title="",AEC 
 https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
 #####http://linearjitp-playback.astro.com.my/dash-wv/linear/2400/default_primary.mpd
