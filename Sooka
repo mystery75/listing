@@ -5,6 +5,41 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kDHO+thTx4plwgIIIVMvPQ", "kid":"5VhM/9YVSROXuM3tXmecGQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="KBSWorld" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png"" group-logo=" group-title="Sooka",KBS World
+https://linear03-playback.sooka.my/CH1/masterCH1.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"b2r9Uhj1xeGQ2H84E4QEGw", "kid":"paGlnRD/S02MSiHqq0I9jQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="Eurosport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="Sooka",Eurosport
+https://linear03-playback.sooka.my/CH2/masterCH2.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HO5FQCla5tbFGcUEGoDxwA", "kid":"jQKveknkSzGXZNgR0BjF6A" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="Sooka",Astro Supersport Plus
+https://linear03-playback.sooka.my/CH3/masterCH3.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tPEppE661kuiVHX9L66wMg", "kid":"ziR/uJnPTyilAR4YBpyHcg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="tvN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" group-title="Sooka",tvN
+https://linear03-playback.sooka.my/CH4/masterCH4.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GZBKr+idRaQB1cqtnYQadw", "kid":"T8ES+SqfTrmJob14DT495g" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroAwani" group-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png" group-logo="" group-title="Sooka",Awani
+https://linear03-playback.sooka.my/CH5/masterCH5.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bhcdw24jVsJOTlmxm8mPxQ", "kid":"aXljcdxORX2Y+isCXqv8lA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="ONE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png" group-logo="" group-title="Sooka",One
 https://linear05-playback.sooka.my/CH1/masterCH1.mpd
@@ -44,7 +79,93 @@ https://linear08-playback.sooka.my/CH4/masterCH4.mpd
 #EXTINF:-1 tvg-id="K-Plus" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/266_144.png" group-logo="" group-title="Sooka",K-Plus
 https://linear08-playback.sooka.my/CH5/masterCH5.mpd
 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWm1ZamxpT0dRdE5tTmxaaTAwTXpGaExXSTBaak10TkRJMllUUXpZVEZtT0dVMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzIyODkxNiwiaWF0IjoxNjkyNjI0OTE2fQ.IKG1JXGjCKdFjMO-KMWimiKgwkDJahxRMCPoOpBXdr4"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroArenaBola" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-logo="" group-title="Sooka",Arena Bola
+https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWm1ZamxpT0dRdE5tTmxaaTAwTXpGaExXSTBaak10TkRJMllUUXpZVEZtT0dVMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzIyODkxNiwiaWF0IjoxNjkyNjI0OTE2fQ.IKG1JXGjCKdFjMO-KMWimiKgwkDJahxRMCPoOpBXdr4"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KsTvR0StICr8wuhz19w5Fg", "kid":"4r0pp0ZaSuSGp1ACMFgKbg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="SPOTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png" group-logo="" group-title="Sooka",SPOTV
+https://d1fk7kbmz4il3.cloudfront.net/CH2/masterCH2.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWm1ZamxpT0dRdE5tTmxaaTAwTXpGaExXSTBaak10TkRJMllUUXpZVEZtT0dVMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzIyODkxNiwiaWF0IjoxNjkyNjI0OTE2fQ.IKG1JXGjCKdFjMO-KMWimiKgwkDJahxRMCPoOpBXdr4"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"EQD+KXFG99AktZlE8J5tGg", "kid":"yk9f9ORpTVS9/cm9NDhCkA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" tvg-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" group-logo="" group-title="Sooka",XXX
+https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWm1ZamxpT0dRdE5tTmxaaTAwTXpGaExXSTBaak10TkRJMllUUXpZVEZtT0dVMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzIyODkxNiwiaWF0IjoxNjkyNjI0OTE2fQ.IKG1JXGjCKdFjMO-KMWimiKgwkDJahxRMCPoOpBXdr4"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"imtZ0L9D4SZfzu/jIYQAYQ", "kid":"LLnnRGR0QSakBrBLuSBwvw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" tvg-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" group-logo="" group-title="Sooka",XXXX
+https://d1fk7kbmz4il3.cloudfront.net/CH4/masterCH4.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWm1ZamxpT0dRdE5tTmxaaTAwTXpGaExXSTBaak10TkRJMllUUXpZVEZtT0dVMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzIyODkxNiwiaWF0IjoxNjkyNjI0OTE2fQ.IKG1JXGjCKdFjMO-KMWimiKgwkDJahxRMCPoOpBXdr4"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroArenaBola2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-logo="" group-title="Sooka",Arena Bola 2
+https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5ESTFPV1l6TmpRdFpqaGlNaTAwWVRZNExXSTBNbVV0TkdNNVpXVXpNRE0wTVdRMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5OTAxMzI0OSwiaWF0IjoxNjk4NDA5MjQ5fQ.hMm1MicFaf41RpNQk4KhRXqMMkakjnnoXxPpfNIPyeE"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-logo="" group-title="Sooka",Astro SuperSport 
+https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWm1ZamxpT0dRdE5tTmxaaTAwTXpGaExXSTBaak10TkRJMllUUXpZVEZtT0dVMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzIyODkxNiwiaWF0IjoxNjkyNjI0OTE2fQ.IKG1JXGjCKdFjMO-KMWimiKgwkDJahxRMCPoOpBXdr4"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+xL2YdZA5OvfOOMSMCJg6w", "kid":"vaf3S4QvTw6xQjldrdkfBw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-logo="" group-title="Sooka",Astro Supersport 4
+https://d3j4fjrwclc3o8.cloudfront.net/CH2/masterCH2.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWm1ZamxpT0dRdE5tTmxaaTAwTXpGaExXSTBaak10TkRJMllUUXpZVEZtT0dVMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzIyODkxNiwiaWF0IjoxNjkyNjI0OTE2fQ.IKG1JXGjCKdFjMO-KMWimiKgwkDJahxRMCPoOpBXdr4"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"x56Rb533occYBeOc2jDZOw", "kid":"n5n/otJ6TPugW4O5HbhG3w" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="W-Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png" group-logo="" group-title="Sooka",W-Sport
+https://d3j4fjrwclc3o8.cloudfront.net/CH3/masterCH3.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5ESTFPV1l6TmpRdFpqaGlNaTAwWVRZNExXSTBNbVV0TkdNNVpXVXpNRE0wTVdRMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5OTAxMzI0OSwiaWF0IjoxNjk4NDA5MjQ5fQ.hMm1MicFaf41RpNQk4KhRXqMMkakjnnoXxPpfNIPyeE"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-logo="" group-title="Sooka",Astro SuperSport 2  
+https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5ESTFPV1l6TmpRdFpqaGlNaTAwWVRZNExXSTBNbVV0TkdNNVpXVXpNRE0wTVdRMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5OTAxMzI0OSwiaWF0IjoxNjk4NDA5MjQ5fQ.hMm1MicFaf41RpNQk4KhRXqMMkakjnnoXxPpfNIPyeE"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/2UXT47F1MiOjYohloVjzw", "kid":"DW0qGsjRThmxdFVlB3DNmQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-logo="" group-title="Sooka",Astro SuperSport 3 
+https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
