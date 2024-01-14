@@ -6,7 +6,8 @@
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
 #EXTINF:-1 tvg-id="TV2" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/tv2_Trans.png" group-logo="https://seeklogo.com/images/R/RTM-logo-8A0D207208-seeklogo.com.png" group-title="",TV2 
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
+#####https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1 tvg-id="TV6" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/tv6_Trans.png" group-logo="https://seeklogo.com/images/R/RTM-logo-8A0D207208-seeklogo.com.png" group-title="" ,TV6 
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
