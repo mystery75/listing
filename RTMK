@@ -2,18 +2,18 @@
 
 
 
-#EXTINF:-1 tvg-id="TV1" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/tv1_Trans.png" group-logo="https://seeklogo.com/images/R/RTM-logo-8A0D207208-seeklogo.com.png" group-title="RTM",TV1 
+#EXTINF:-1 tvg-id="TV1" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/tv1_Trans.png" group-logo="https://rtmklik.rtm.gov.my/img/rtm-teman-setia.74a91574.png" group-title="rtm",TV1 
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
-#EXTINF:-1 tvg-id="TV2" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/tv2_Trans.png" group-logo="https://seeklogo.com/images/R/RTM-logo-8A0D207208-seeklogo.com.png" group-title="RTM",TV2 
+#EXTINF:-1 tvg-id="TV2" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/tv2_Trans.png" group-logo="https://rtmklik.rtm.gov.my/img/rtm-teman-setia.74a91574.png" group-title="rtm",TV2 
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
 #####https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
-#EXTINF:-1 tvg-id="TV6" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/tv6_Trans.png" group-logo="https://seeklogo.com/images/R/RTM-logo-8A0D207208-seeklogo.com.png" group-title="RTM" ,TV6 
+#EXTINF:-1 tvg-id="TV6" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/tv6_Trans.png" group-logo="https://rtmklik.rtm.gov.my/img/rtm-teman-setia.74a91574.png" group-title="rtm" ,TV6 
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#EXTINF:-1 tvg-id="Okey" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/okey_Trans.png" group-logo="https://seeklogo.com/images/R/RTM-logo-8A0D207208-seeklogo.com.png" group-title="RTM",Okey 
+#EXTINF:-1 tvg-id="Okey" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/okey_Trans.png" group-logo="https://rtmklik.rtm.gov.my/img/rtm-teman-setia.74a91574.png" group-title="rtm",Okey 
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
-#EXTINF:-1 tvg-id="Sukan RTM" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/sukan_Trans.png" group-logo="https://seeklogo.com/images/R/RTM-logo-8A0D207208-seeklogo.com.png" group-title="RTM",Sukan RTM
+#EXTINF:-1 tvg-id="Sukan RTM" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/sukan_Trans.png" group-logo="https://rtmklik.rtm.gov.my/img/rtm-teman-setia.74a91574.png" group-title="rtm",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
