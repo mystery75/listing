@@ -67,8 +67,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asi
 https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #EXTINF:-1 tvg-id="AniPlus.id" tvg-logo="https://aniplus-asia.com/anipluscafe/bangdream-2021/wp-content/uploads/2019/11/logo-white.png" group-logo="https://www.mncvision.id/themes/default/img/logo.png" group-title="MNC vision",AniPlus 
-https://dice-live-in.akamaized.net/hls/live/2106035/241430-260952/playlist.m3u8?hdnea=st=1705287864~exp=1705287904~acl=/hls/live/2106035/241430-260952/*~id=b64f3338-1cec-4327-ae25-14775e74e02d~data=dWlkPXpWZ0VhNnwxMjRiMTMxMy05OTE2LTRiZGMtYTQ2ZS1lZjlhNzQ3YjZkMzAmaXA9MTE3LjEuMjUxLjExNiZleHA9MTcwNTM3NDMwNCZlaWQ9MjQxNDMwJmNpZD1kY2UuZWF6aWV0diZvaWQ9MzU0~hmac=4f647f8cca95cc405c3467d6835894638c5452cfb7cd8508100630b1a060e39b&opId=354&cc=VN&ua=TW96aWxsYS81LjA%3D
-#####https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
