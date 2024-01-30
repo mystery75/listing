@@ -179,12 +179,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01944-ktalpha-kpopcorn-dash-sooka
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-id="3.astro" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/66847680a99c4be9af34f94102e6e416/version/0/width/120/height/90/quality/80" group-logo="" group-title="Sooka",MTRSPT 1
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-sooka-dash-sooka/3b6bb7a2-b86e-4384-bcf6-666764085d6d/index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="4.astro" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/57a888c001024bbe8bcbe4f794b36cdf/version/0/width/120/height/90/quality/80" group-logo="" group-title="Sooka",ESTV
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00303-televisionkorea-estv-dash-sooka/index.mpd
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-sooka-dash-sooka/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -235,6 +230,13 @@ https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/bf0217c390d64933a8322599c7fc8cdb/version/0/width/120/height/90/quality/80" group-logo="" group-title="Sooka",Lawak Sentral 
 https://linearfast03.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd
+
+
+
+
+
+
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
