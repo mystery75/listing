@@ -66,9 +66,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asi
 #EXTINF:-1 tvg-id="Thrill.hk" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png" group-logo="" group-title="MNC vision",Thrill
 https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
-#EXTINF:-1 tvg-id="AniPlus.id" tvg-logo="https://aniplus-asia.com/anipluscafe/bangdream-2021/wp-content/uploads/2019/11/logo-white.png" group-logo="" group-title="MNC vision",AniPlus 
-https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -76,7 +73,7 @@ https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------- Indihome ---------------------------------------------------------------------------------------------------------------------------
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -86,7 +83,18 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemach
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Flik.png" group-title="MNC vision",Flik
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------ Useetv ---------------------------------------------------------------------------------------------------------------------------
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uuHkfbVitmiVvrj8zfKtig", "kid":"8sMT/OVTROWlI4l0HR9T+A" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AniPlus.id" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-logo="" group-title="MNC vision",AniPlus 
+https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
+#####https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
+
+------------------------------------------------------------------------------------------ Transvision ----------------------------------------------------------------------------------------------------------------------
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev
