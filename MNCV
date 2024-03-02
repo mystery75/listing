@@ -91,8 +91,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uuHkfbVitmiVvrj8zfKtig", "kid":"8sMT/OVTROWlI4l0HR9T+A" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AniPlus.id" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-logo="" group-title="MNC vision",AniPlus 
-https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
-#####https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
+https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
+#####https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
 
 ------------------------------------------------------------------------------------------ Transvision ----------------------------------------------------------------------------------------------------------------------
 
