@@ -437,6 +437,11 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/5020/default_primary.mp
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/5019/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"v34bl1VcSst0VfcRsqn/Fg", "kid":"G2GKKRzs5EyYRd3fxP2bEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="511.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CNN_v1.png" group-title="",CNN 
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/2503/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"i563q3GWpCXZq2GKXJ+Z2Q", "kid":"lylVipv/jZR3S/ovAZoTEA" } ], "type":"temporary" } 
 #EXTINF:-1 tvg-id="326.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Phoenix_News_Info_v1.png" group-title="",Phoenix Info News 
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/5009/default_primary.mpd
@@ -466,6 +471,11 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/5015/default_primary.mp
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/5051/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"A++I3xpHZp5UWeEF47U1sQ", "kid":"J2dnpXiq4urLKEJHzNnrEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="552.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png" group-title="",Discovery 
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/2510/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Rj2HfDtqnFlIuQRatW1t0Q", "kid":"feQDGn4QebL/OI2hHbmnEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="553.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png" group-title="",Discovery Aisa 
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/5086/default_primary.mpd
@@ -479,6 +489,11 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2300/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L7Oas/VTM9X6PoMOv5nsFg", "kid":"ktNKhPro5U3gqClimUG+EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="551.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Global-Trekker_190x80_TV-Guide.png" group-title="",Global Treker 
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/5094/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KmlbBG589YEaY00TSEQRlQ", "kid":"jBuzCZVe7jKII5Cr6+GYEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="715.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HGTV_v1.png" group-title="",HGTV 
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/2502/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sS4fiUEpxRfciEW6ruvsig", "kid":"9CkpLcdE8oQ1UwhWFXesEA" } ], "type":"temporary" }
