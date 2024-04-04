@@ -539,12 +539,12 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6857fe540a1018060b2307
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev
-#EXTINF:-1 tvg-id="Boomerang HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png" group-title="Kids",Cartoonito_
-#https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
+#EXTINF:-1 tvg-id="Boomerang HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png" group-title="",Cartoonito
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network" group-title="Kids",Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network" group-title="",Cartoon Network
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
 
