@@ -28,6 +28,7 @@ http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=156021&extension=t
 #EXTINF:-1 tvg-id="173" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MoviesNow.png" group-logo="" group-title="",Movies Now
 http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=1116477&extension=ts
 #####http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=282651&extension=ts&play_token=8elHzUlVi6
+http://103.107.79.87:8080/CH8109HD01/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="32" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-logo="" group-title="",Sony Pix    
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
@@ -38,6 +39,8 @@ http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=282639&extension=t
 #####http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=282639&extension=ts&play_token=1PvUcweHaG
 #####http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=155727&extension=ts&play_token=1PvUcweHaG
 #####http://103.131.214.89:8000/play/a01a
+https://tv5.hoichoi24.com/1605/index.m3u8
+http://103.107.79.87:8080/CH8109HD05/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="593" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMoviesSelect.png" group-logo="" group-title="",Star Movies Select 
 http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=155729&extension=ts
