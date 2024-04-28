@@ -91,24 +91,24 @@ https://unifi-live32.secureswiftcontent.com/UnifiHD/live32.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
-#EXTINF:-1 tvg-id="103.unifi" ch-number="103" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png" group-logo="" group-title="",TV3 
-https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OWQ5YTk1NzAtNGUyMi0zZmY5LWFlM2UtZmZmNzZhMzMwMzE3
+#EXTINF:-1 tvg-id="103.unifi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png" group-logo="" group-title="",TV3 
+https://web.hypp.tv/PLTV/88888888/224/3221227779/3221227779.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=5P%2FZmSAoS0sKZqU8B1%2BiBYYEAI2LjVtl%2FnTNmW9yrQv1wvryuk4noeCvbh%2BfbErmEVVPx07cAmFqnmi%2Fky0uafHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20240427130354%3AUTC%2C1005926114%2C118.100.29.203%2C20240427130354%2Curn:Huawei:liveTV:iptv182%2C1005926114%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1615850%2C0%2C521145%2C2391471149%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQUvEMBSE_02OIXmbEj3ktCIIUoWtXmWavMayabMm3QX_va3W68x8w7cUeH56cME2hofeq8b2hhj33jZEqukN2JKBqPzVZkfCI6Vxjm0OG_Z-On5oJZUk0pIOotvuHhPivmyvU8_F6X_sxOU2enahDvKGKhFj4YhlzLN8Tfh-K2mfCO52NW21ocMqQVrdiWVLO9Tz2ohP1GOeLigcnnP8BdyAVFlc4M-I3GJiN19T-uNeSlhtfgDpl82H9AAAAA&tenantId=6001
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OWQ5YTk1NzAtNGUyMi0zZmY5LWFlM2UtZmZmNzZhMzMwMzE3
 #EXTINF:-1 tvg-id="108.unifi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png" group-logo="" group-title="",8TV 
-https://unifi-live08.secureswiftcontent.com/UnifiHD/live08-1080FHD.mpd
+https://web.hypp.tv/PLTV/88888888/224/3221227480/3221227480.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=5P%2FZmSAoS0sKZqU8B1%2BiBYYEAI2LjVtl%2FnTNmW9yrQvpVXYFn4lhWx6GOy7%2B0ABTMfELCeemDL4JtrK8vj48tPHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20240427131314%3AUTC%2C1005926114%2C118.100.29.203%2C20240427131314%2Curn:Huawei:liveTV:iptv184%2C1005926114%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1615850%2C0%2C521145%2C2391471149%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY7CIBRF_4Yl8UERu2DlxMTEVBPrbM0TXrEpLQrVxL_Xjp3tvffcnDGhpe2Pka6kJShnC90UWpUXjY2VoECuFJYALNO9ikYwiyG0g6-im7Df4_oMC77gQgAXktXT3Sagn5fVo79QMvCPHSk9W0vG5YY_MXP0PpHHsY0DPwR8nVKYJ4zqWQ00FEJqBUosgY1TWmPuPg27Yl7H_oaJ3C76P8A0GDKxG9oOPVXYkxkeIXy5fXIfmzcJQjtw9AAAAA&tenantId=6001
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OWQ5YTk1NzAtNGUyMi0zZmY5LWFlM2UtZmZmNzZhMzMwMzE3
 #EXTINF:-1 tvg-id="109.unifi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png" group-logo="" group-title="",TV9  
-https://unifi-live09.secureswiftcontent.com/UnifiHD/live09-1080FHD.mpd
+https://web.hypp.tv/PLTV/88888888/224/3221227483/3221227483.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=5P%2FZmSAoS0sKZqU8B1%2BiBYYEAI2LjVtl%2FnTNmW9yrQvSeEaXrmhCkwbWI31oKXB9qZfOMB7jPk9wnIa4r5IygvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20240427131433%3AUTC%2C1005926114%2C118.100.29.203%2C20240427131433%2Curn:Huawei:liveTV:iptv185%2C1005926114%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1615850%2C0%2C521145%2C2391471149%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW6DMBBE_8ZHizU4wMEnokiVKlopJNdqbS8OisGpTSL17wMpuc7MG705oqGPvdqJGkRJme6hLqTMqp3Q2kJOpTZG1pIl-m2DEsyg98Pk2mBX7HxsfiDjGRcCuMhZt94dPLpt2d5HTVHBGztSfAyGlE09f2Di6Fwkh_MQJv7t8e8U_TZh1G1qUEIh8rKqQOYFm9e0w3RdGnbB1ITxhpHsZ3AvQPXoE7Ebmis6anEkNd29_-e-ol1snr5GaYX0AAAA&tenantId=6001
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
-#EXTINF:-1 tvg-id="107.unifi" ch-number="107" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png" group-logo="" group-logo="" group-title="",DidikTV  
-https://unifi-live06.secureswiftcontent.com/UnifiHD/live06-1080FHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OWQ5YTk1NzAtNGUyMi0zZmY5LWFlM2UtZmZmNzZhMzMwMzE3
+#EXTINF:-1 tvg-id="107.unifi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png" group-logo="" group-title="",DidikTV  
+https://web.hypp.tv/PLTV/88888888/224/3221227515/3221227515.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=5P%2FZmSAoS0sKZqU8B1%2BiBYYEAI2LjVtl%2FnTNmW9yrQsv0pvfXhynmAbYMbUoH7uzb9Yqedax%2F9rQEPma6D%2FsBPHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20240427131139%3AUTC%2C1005926114%2C118.100.29.203%2C20240427131139%2Curn:Huawei:liveTV:iptv183%2C1005926114%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1615850%2C0%2C521145%2C2391471149%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQQ7CIBREb8OSFEpBF6w0Jiammljdml_6waa0KFQTb6_Vup2ZN3ljBIPbtbacAy6ltJwZUdgacikXplZSLPNCFEgS3sugOTHgfTu4MjQTdj6uLiyjGeWcUZ6TarrbeHDzsnz0NUbN_tgR47M1qJtk6RMSBeciOhjbMNCDh9cp-nlCsJrVmGKC50plSrCCjFNaQeo-DblCWoX-BhGbXXBfQFvwCckNTAcOS-hRDw_vf9w-Nh-bNwXjmiL0AAAA&tenantId=6001
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
@@ -154,6 +154,11 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227553/3221227553.mpd?rrsip=web.hy
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #EXTINF:-1 tvg-id="471.unifi" ch-number="471" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202109/20210926/20210926024214242p95.png" group-logo="" group-title="",Gem
 https://web.hypp.tv:443/PLTV/88888888/224/3221227869/3221227869.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tAj9noBYJ2skybq0Yc3wzUPfVVgVyDuUJP2cH3Vl1NgUtbNv16v%2BzieVWwImkNgeg1kTVq%2B8T3u5TGgBhmCcgUAyF9cjp90m2RAyA0sYZtgzq5XlKJ7JMabmxeM83fZv%3A20230921113509%3AUTC%2C1005926113%2C203.106.139.128%2C20230921113509%2Curn:Huawei:liveTV:XTV51882374%2C1005926113%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C1615850%2C0%2C521145%2C3533104136%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy2rDMBRE_0ZLoYft4oVWKYVAcAtxuy0j6Voxka1UcgL9-8aNs52ZM5wlw9H-1QhtAaek87apYHWrqEJTC6usGkRTs0I_XTKKOcQ4zqFLfsW-jrtvKbjgSkmuNOvXu7eIsC2762QpG_nEjpRvoyPjy8BvKBwhZApYxjTzj4jfzxy3CaN-U5NNW2tR6falEoIta9qjnO8NO6Hs0nRBJn9I4R8wA2IhdoE7I1CHicx8jfHBvWd_t_kD2trVRPQAAAA&tenantId=6001
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+#EXTINF:-1 tvg-id="289.unifi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202110/20211002/20211002075446164wlh.png" group-logo="" group-title="",Celestial Classic Movies 
+https://web.hypp.tv:443/PLTV/88888888/224/3221227850/3221227850.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=5P%2FZmSAoS0sKZqU8B1%2BiBYYEAI2LjVtl%2FnTNmW9yrQtRe%2Fh2PhZTF1mL31wek7aKo8NojeCSOxbvq7APcx7XGvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20240428052953%3AUTC%2C1005926114%2C118.100.29.203%2C20240428052953%2Curn:Huawei:liveTV:XTV52014451%2C1005926114%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1615850%2C0%2C521145%2C2391471149%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7DIBQE_4YjAuyAfeCUKlKlyK0Ut9dqDS_UCjYpOJH6941b97q7s5olw9Hzk20aiMrs6tpUphbCD0Zr12pXNWjgxcAKfXXJKuYQ4ziHLvkVez_tP6TggisluapYv94dIsK27G7TQNnKf-xE-T46sr6c-R2FI4RMAcuYZv4a8f2W4zZh1G9q0shatVpqI1vJljXtUS6Phn2i7NN0RSZ_TOEXsGfEQuwKd0GgDhPZ-RbjH_eS_cPmB42Copr0AAAA&tenantId=6001
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
