@@ -1,31 +1,29 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml"
 
 
 
-#EXTINF:-1 tvg-id="101.astro" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/tv1_Trans.png" group-logo="" group-title="",TV1 
+#EXTINF:-1 tvg-id="RTMK01" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/tv1_Trans.png" group-logo="" group-title="",TV1 
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
-#EXTINF:-1 tvg-id="102.astro" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/tv2_Trans.png" group-logo="" group-title="",TV2 
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
-#####https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+#EXTINF:-1 tvg-id="RTMK02" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/tv2_Trans.png" group-logo="" group-title="",TV2 
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+#https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
 
-#EXTINF:-1 tvg-id="TV6" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/tv6_Trans.png" group-logo="" group-title="" ,TV6 
+#EXTINF:-1 tvg-id="RTMK06" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/tv6_Trans.png" group-logo="" group-title="" ,TV6 
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/berita_bckg.png" group-logo="" group-title="" ,Berita
+#EXTINF:-1 tvg-id="RTMK05" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/berita_bckg.png" group-logo="" group-title="" ,Berita
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/PDR_bckg.png" group-logo="" group-title="" ,Dewan Rakyat
+#EXTINF:-1 tvg-id="RTMK07" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/PDR_bckg.png" group-logo="" group-title="" ,Dewan Rakyat
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/PDN_bckg.png" group-logo="" group-title="" ,Dewan Negara
+#EXTINF:-1 tvg-id="RTMK08" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/PDN_bckg.png" group-logo="" group-title="" ,Dewan Negara
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd
 
-#EXTINF:-1 tvg-id="146.astro" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/okey_Trans.png" group-logo="" group-title="",Okey 
+#EXTINF:-1 tvg-id="RTMK03" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/okey_Trans.png" group-logo="" group-title="",Okey 
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
-#EXTINF:-1 tvg-id="Sukan RTM" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/sukan_Trans.png" group-logo="" group-title="",Sukan RTM
+#EXTINF:-1 tvg-id="RTMK04" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/sukan_Trans.png" group-logo="" group-title="",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/BorakTengahLapar2024.jpg" group-logo="" group-title="" ,Borak Tengah Lapar
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/manifest.mpd
