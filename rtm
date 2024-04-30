@@ -15,7 +15,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 #EXTINF:-1 tvg-id="Berita RTM" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/berita_Trans.png" group-logo="https://www.rtm.gov.my/img/logortmbaharu2.png" group-title="Rtm",Berita
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
-#EXTINF:-1 tvg-id="Dewan Rakyat" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/PDR_Transpng" group-logo="https://www.rtm.gov.my/img/logortmbaharu2.png" group-title="Rtm",Dewan Rakyat
+#EXTINF:-1 tvg-id="Dewan Rakyat" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/PDR_Trans.png" group-logo="https://www.rtm.gov.my/img/logortmbaharu2.png" group-title="Rtm",Dewan Rakyat
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd
 
 #EXTINF:-1 tvg-id="Dewan Negara" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/PDN_Trans.png" group-logo="https://www.rtm.gov.my/img/logortmbaharu2.png" group-title="Rtm",Dewan Negara
