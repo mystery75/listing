@@ -12,13 +12,13 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=
 #EXTINF:-1 tvg-id="TV6" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/tv6_Trans.png" group-logo="https://www.rtm.gov.my/img/logortmbaharu2.png" group-title="Rtm",TV6 
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#EXTINF:-1 tvg-id="BERITARTM" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/berita_bckg.png" group-logo="https://www.rtm.gov.my/img/logortmbaharu2.png" group-title="Rtm",Berita
+#EXTINF:-1 tvg-id="Berita RTM" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/berita_Trans.png" group-logo="https://www.rtm.gov.my/img/logortmbaharu2.png" group-title="Rtm",Berita
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
-#EXTINF:-1 tvg-id="Dewan Rakyat" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/PDR_bckg.png" group-logo="https://www.rtm.gov.my/img/logortmbaharu2.png" group-title="Rtm",Dewan Rakyat
+#EXTINF:-1 tvg-id="Dewan Rakyat" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/PDR_Transpng" group-logo="https://www.rtm.gov.my/img/logortmbaharu2.png" group-title="Rtm",Dewan Rakyat
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd
 
-#EXTINF:-1 tvg-id="Dewan Negara" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/PDN_bckg.png" group-logo="https://www.rtm.gov.my/img/logortmbaharu2.png" group-title="Rtm",Dewan Negara
+#EXTINF:-1 tvg-id="Dewan Negara" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/PDN_Trans.png" group-logo="https://www.rtm.gov.my/img/logortmbaharu2.png" group-title="Rtm",Dewan Negara
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd
 
 #EXTINF:-1 tvg-id="OKEY" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/okey_Trans.png" group-logo="https://www.rtm.gov.my/img/logortmbaharu2.png" group-title="Rtm",Okey 
