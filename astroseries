@@ -1,1 +1,10 @@
+#EXTM3U
 
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fkEeKXwtVa2LRRPSe/nGKA", "kid":"GMcVqwVUAofh+x5uAW6vEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNLAR_Series_IVP_LAND_917x516_2024627_9471.jpg" group-logo="" group-title="Dedaun Hijau Di Angin Lalu",Episodes 1
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a271c107-ae98-5ed9-aa81-491b804153b4/default_dash.mpd
